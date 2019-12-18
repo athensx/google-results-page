@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.div {
+    display: block;
+}
+
+.header1-container {
+    width: 1175px;
+    height: 65px;
+}
+
+.logo {
+    width: 150px;
+    height: 37px;
+    position: absolute;
+    padding: 4px 28px 0 30px;
+}
